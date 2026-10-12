@@ -1,12 +1,3 @@
-Experiments:
---> Experiment_1_Setting_Up_Python_Environment.pdf
---> Experiment_1B_Demonstration_Jupyter_Widgets_AI.pdf
---> Experiment_2_Data_Import_Export.pdf
---> Experiment_3_Data_Cleaning.pdf
---> Experiment_4_Data_Analysis.pdf
---> Experiment_5_Matplotlib_Visualization.pdf
---> Experiment_6_PowerBI_Dashboard.pdf
---> Experiment_7_Tableau_Visualization.pdf
 
 # Social Media Data Analytics
 
